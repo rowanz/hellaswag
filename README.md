@@ -1,5 +1,5 @@
 # hellaswag
-HellaSwag: Can a Machine Really /Finish/ Your Sentence?
+HellaSwag: Can a Machine _Really_ Finish Your Sentence?
 
 This repo contains code and data for HellaSwag. If you like this paper, please cite us:
 
